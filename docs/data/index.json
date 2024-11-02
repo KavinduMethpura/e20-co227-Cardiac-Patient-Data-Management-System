@@ -25,16 +25,17 @@
       "name": "Thilakarathne P.D",
       "email": "e20397@eng.pdn.ac.lk",
       "eNumber": "E/20/397"
-    },
+    }
   ],
   "supervisors": [
     {
-      "name": "Dr.Damayanthi Herath ",
+      "name": "Dr. Damayanthi Herath",
       "email": "damayanthiherath@eng.pdn.ac.lk"
     },
-   {
-      "name": "Dr.Upul Jayasinghe",
+    {
+      "name": "Dr. Upul Jayasinghe",
       "email": "upuljm@eng.pdn.ac.lk"
-    },
+    }
   ],
-  "tags": ["Web", "Machine Learning","JavaScpript","CSS","Java"]
+  "tags": ["Web", "Machine Learning", "JavaScript", "CSS", "Java"]
+}
